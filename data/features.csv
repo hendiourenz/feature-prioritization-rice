@@ -1,0 +1,9 @@
+feature,description,reach,impact,confidence,effort
+Save-and-resume BVN verification,Let users pause identity verification and finish later,9000,2,0.8,2
+In-app referral rewards,Reward both parties after the referred user's first transaction,6000,2,0.7,3
+Biometric login,Fingerprint and face login to replace PIN entry,12000,0.5,0.9,2
+Bill payments hub,Airtime/data/electricity/cable in one flow with saved beneficiaries,10000,1,0.8,4
+Savings goals,Named goals with auto-debit rules and progress bar,5000,1,0.6,3
+Spending insights,Monthly category breakdown of spending,8000,0.5,0.5,5
+Dark mode,Dark theme for the whole app,12000,0.25,1,1
+USSD fallback for onboarding,Complete signup on feature phones without data,3000,3,0.5,6
